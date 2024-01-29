@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export UUID='c08fec05-fe1a-40f8-8719-38c13d2d241c'
+export VPATH='vvllvvss'
+export CF_IP='www.visa.com'
+export URL_BOT='https://github.com/wbygitt/java-cf/releases/download/M/java-amd-w'
+export URL_BOT2='https://github.com/wbygitt/java-cf/releases/download/M/java-arm-w'

@@ -1,0 +1,4 @@
+listeners:
+    - host: 0.0.0.0:24254
+      query_port: 24254
+#端口
